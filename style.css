@@ -45,7 +45,6 @@ body {
 #profile {
   text-align: center;
   padding: 24px;
-  
 }
 
 #profile img {
@@ -60,7 +59,6 @@ body {
   font-weight: var(--text-profile);
   line-height: 24px;
   margin-top: 8px;
-  
 }
 
 #switch {
@@ -68,8 +66,6 @@ body {
   height: 32px;
   position: relative;
   margin: 10px auto;
-  
-  
 }
 
 #switch button {
@@ -80,7 +76,6 @@ body {
   border-radius: 50%;
   cursor: pointer;
 
-  
   position: absolute;
   top: 50%;
   left: 0;
@@ -91,7 +86,6 @@ body {
 .light #switch button {
   right: 0;
   left: initial;
-  
 }
 
 #switch span {
@@ -171,5 +165,5 @@ footer {
 
 .heart {
   color: palevioletred;
-  padding: 4%;
+  padding: 5px;
 }
