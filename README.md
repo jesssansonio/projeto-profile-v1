@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Work Profile é uma adaptação do DevLinks (projeto do mini curso Discovery ministrado pelo Mayk Brito), que é um agregador de links para usar como cartão de visitas online. Os CTAs direcionam para meus perfís das redes sociais e substituí os ícones de social links por ícones de contatos.
+O Work Profile é uma adaptação do DevLinks (projeto do mini curso Discover ministrado pelo Mayk Brito), que é um agregador de links para usar como cartão de visitas online. Os CTAs direcionam para meus perfís das redes sociais e substituí os ícones de social links por ícones de contatos.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
